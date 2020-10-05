@@ -1,5 +1,6 @@
 package io.badou.portailcurrivitae;
 
+
 import io.badou.portailcurrivitae.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
